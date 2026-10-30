@@ -1,4 +1,4 @@
-llama-server -m /home/admin/.lmstudio/models/prism-ml/Ternary-Bonsai-2-27B-gguf-dev/Ternary-Bonsai-2-27B-PTQ1_0.gguf \
+llama-server -m /home/admin/.lmstudio/models/prism-ml/Ternary-Bonsai-2-27B-gguf/Ternary-Bonsai-2-27B-PTQ1_0.gguf \
   --alias bonsai-ptq1 \
   -ngl 99 -fa on -c 50000 \
   --temp 0.5 --top-p 1.0 \
