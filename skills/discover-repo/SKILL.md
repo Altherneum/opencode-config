@@ -15,9 +15,8 @@ description: Reveal repository structure and git status through shell commands
 Use the following shell commands to explore the repository:
 
 ### Directory Listing
-- `tree -L 3` : Show file tree up to 3 levels deep
+- `tree` : Show file tree up to 3 levels deep
 - `ls -la` : List all files with details
-- `find . -type f -name "*.md"` : Find markdown files
 - `git status` : Show current git status
 
 ### Git Information
@@ -25,11 +24,12 @@ Use the following shell commands to explore the repository:
 - `git remote -v` : Show remote URLs
 - `git log --oneline -5` : Last 5 commits
 - `git diff --cached` : Show staged changes
-- `git add -A && git commit -m "Initial commit"` : Initial commit
 
 ### File Search
 - `grep -r "TODO" . --include="*.md"` : Find TODO comments
 - `find . -name "*.ts" -type f` : Find TypeScript files
+- `find . -name "*.js" -type f` : Find JavaScript files
+- `find . -name "*.md" -type f` : Find MarkDown files
 
 ### Repository Info
 - `git remote -e` : Show remote configuration
