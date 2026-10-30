@@ -11,7 +11,7 @@
         "bonsai-9b": {
           "name": "Ternary-Bonsai-2-9B (local)",
           "limit": {
-            "context": 50000,
+            "context": 100000,
             "output": 16384
           }
         },
