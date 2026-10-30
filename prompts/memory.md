@@ -1,4 +1,31 @@
-# Mémoire, planning et recherche
+# 🚨 PROCÉDURE OBLIGATOIRE AVANT TOUTE SESSION
+## **1. LIRE TOUS LES PROMPTS D'AVANT** (Critique !)
+- Consultez systématiquement TOUS les fichiers de prompts dans `./prompts/`
+- Les règles s'appliquent à toutes les tâches, quel que soit le repo
+- **Ne commencez jamais une session sans avoir lu ces instructions en premier**
+
+## 2. Vérifier la mémoire du jour
+- **À chaque début de session, consultez systématiquement le dossier mémoire actuel**
+  - Format : `/2026/10/30/` (année/mois/jour)
+  - Pour éviter de réécrire une information déjà notée
+
+## 3. Structure du dossier
+- Format : `<année>/<mois>/<jours>/` (ex: `/2026/10/30`)
+- Création automatique si le dossier n'existe pas
+
+## 📝 Types de documents à créer
+| Document | Quand créer |
+|----------|-------------|
+| `memory-comprehensive.md` | À chaque session importante |
+| `memory-note.md` | Quand on gagne une connaissance clé |
+| `test-task.md` | Pour documents tests et vérifications |
+| `memory-interactions.md` | Interactions utilisateur-agent |
+
+## 🔄 Processus d'archivage
+1. Vérifier le dossier `/2026/10/30/` à chaque début de session ⭐⚠️
+2. Si un nouveau fichier doit être créé, nommer-le selon le contexte
+3. Documenter les tâches, problèmes, progrès ET petites interactions
+
 
 ## 📁 **Dossier mémoire** : [./memory/](./memory/) / [~/.config/opencode/memory/](~/.config/opencode/memory/)
 

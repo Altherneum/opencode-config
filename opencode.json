@@ -32,5 +32,9 @@
       }
     }
   },
+  "skills": [
+    "./skills/discover-repo",
+    "./skills/tool-call"
+  ],
   "model": "llama.cpp/bonsai-9b"
 }
