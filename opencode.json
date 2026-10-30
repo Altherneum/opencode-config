@@ -37,5 +37,17 @@
     "./skills/tool-call",
     "./skills/repo-knowledge"
   ],
+  "instructions": [
+    "/home/admin/.config/opencode/AGENTS.md",
+    "/home/admin/.config/opencode/prompts/lire.md",
+    "/home/admin/.config/opencode/prompts/auto-upgrade.md",
+    "/home/admin/.config/opencode/prompts/recherche.md",
+    "/home/admin/.config/opencode/prompts/memory.md",
+    "/home/admin/.config/opencode/prompts/confirmation.md",
+    "/home/admin/.config/opencode/README.md",
+    "/home/admin/.config/opencode/prompts/style/réponse-simple.md",
+    "/home/admin/.config/opencode/prompts/style/français.md",
+    "/home/admin/.config/opencode/prompts/style/markdown.md"
+  ],
   "model": "llama.cpp/bonsai-9b"
 }
