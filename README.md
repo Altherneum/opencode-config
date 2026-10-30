@@ -2,6 +2,7 @@
 ## Lancer llama-server
 - Lancé via `start-llama-bonsai-9B.sh` : [./start-llama-bonsai-9B.sh](./start-llama-bonsai-9B.sh) / [~/.config/opencode/start-llama-bonsai-9B.sh](~/.config/opencode/start-llama-bonsai-9B.sh)
 - Lancé via `start-llama-bonsai-27B.sh` : [./start-llama-bonsai-27B.sh](./start-llama-bonsai-27B.sh) / [~/.config/opencode/start-llama-bonsai-27B.sh](~/.config/opencode/start-llama-bonsai-27B.sh)
+- Lancé via `start-llama` : [./start-llama.sh](./start-llama.sh) / [~/.config/opencode/start-llama.sh](~/.config/opencode/start-llama.sh) (modèle PTQ1)
 - Configuré pour Open Code Desktop via `` [./opencode.json](./opencode.json) [~/.config/opencode/opencode.json](~/.config/opencode/opencode.json)
 ## Prompts et règles
 - Un dossier `prompts` [./prompts/](./prompts/) contient une liste de règles, astuces, commandes, et façon de travailler

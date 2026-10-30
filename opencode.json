@@ -21,6 +21,13 @@
             "context": 50000,
             "output": 16384
           }
+        },
+        "bonsai-ptq1": {
+          "name": "Ternary-Bonsai-2-27B-PTQ1_0 (local)",
+          "limit": {
+            "context": 50000,
+            "output": 16384
+          }
         }
       }
     }
