@@ -14,6 +14,13 @@
             "context": 50000,
             "output": 16384
           }
+        },
+        "bonsai-27b": {
+          "name": "Ternary-Bonsai-2-27B (local)",
+          "limit": {
+            "context": 50000,
+            "output": 16384
+          }
         }
       }
     }
