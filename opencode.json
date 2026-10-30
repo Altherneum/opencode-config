@@ -35,7 +35,8 @@
   "skills": [
     "./skills/discover-repo",
     "./skills/tool-call",
-    "./skills/repo-knowledge"
+    "./skills/repo-knowledge",
+    "./skills/bash-check"
   ],
   "instructions": [
     "/home/admin/.config/opencode/AGENTS.md",
@@ -47,7 +48,8 @@
     "/home/admin/.config/opencode/README.md",
     "/home/admin/.config/opencode/prompts/style/réponse-simple.md",
     "/home/admin/.config/opencode/prompts/style/français.md",
-    "/home/admin/.config/opencode/prompts/style/markdown.md"
+    "/home/admin/.config/opencode/prompts/style/markdown.md",
+    "/home/admin/.config/opencode/prompts/error.md"
   ],
   "model": "llama.cpp/bonsai-9b"
 }

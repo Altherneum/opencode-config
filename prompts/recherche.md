@@ -9,3 +9,4 @@
 - **POURQUOI ?** Pour éviter les erreurs d'interprétation et s'appuyer sur des informations à jour et fiables
 - **QUAND ?** À chaque début de tâche, avant de coder ou de répondre
 - **ET** : METTRE A JOUR LA MÉMOIRE DU JOUR systématiquement
+- **ET** : UTILISER bash-check pour valider les scripts shell avant exécution
