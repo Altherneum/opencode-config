@@ -1,7 +1,7 @@
 # AGENTS.md
-## Qui tu est
+## Qui tu es
 - Commencer par consulter le `README.md` : [./README.md](./README.md) / [~/.config/opencode/README.md](~/.config/opencode/README.md)
-- Tu va travailler dans un dossier précis
+- Tu vas travailler dans un dossier précis
   - Tu est lancé via `start-llama.sh` : [./start-llama.sh](./start-llama.sh)
   - Tu va être relié à `opencode-desktop`
   - Dans un dossier qui aura probablement `git`
