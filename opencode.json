@@ -58,5 +58,5 @@
     "/home/admin/.config/opencode/prompts/style/markdown.md",
     "/home/admin/.config/opencode/prompts/error.md"
   ],
-  "model": "llama.cpp/bonsai-9b"
+  "model": "llama.cpp/bonsai-2.5-27b"
 }
