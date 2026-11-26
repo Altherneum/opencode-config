@@ -29,8 +29,8 @@
             "output": 16384
           }
         },
-        "bonsai-2.5-27b": {
-          "name": "Ternary-Bonsai-2.5-27B (local)",
+        "bonsai-2-5-27b": {
+          "name": "Ternary-Bonsai-2-5-27B (local)",
           "limit": {
             "context": 100000,
             "output": 16384
@@ -58,5 +58,5 @@
     "/home/admin/.config/opencode/prompts/style/markdown.md",
     "/home/admin/.config/opencode/prompts/error.md"
   ],
-  "model": "llama.cpp/bonsai-2.5-27b"
+  "model": "llama.cpp/bonsai-2-5-27b"
 }
