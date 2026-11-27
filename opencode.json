@@ -41,6 +41,18 @@
           "limit": {
             "context": 100000,
             "output": 16384
+          },
+        "bonsai-2-5-fast": {
+          "name": "Ternary-Bonsai-2-5-27B MTP fast (local)",
+          "limit": {
+            "context": 32768,
+            "output": 16384
+          },
+        "bonsai-2-5-smart": {
+          "name": "Ternary-Bonsai-2-5-27B MTP smart (local)",
+          "limit": {
+            "context": 65536,
+            "output": 16384
           }
         }
       }
