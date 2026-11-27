@@ -56,6 +56,13 @@
             "context": 65536,
             "output": 16384
           }
+        },
+        "LFM3": {
+          "name": "Liquid LFM 2B (local)",
+          "limit": {
+            "context": 65536,
+            "output": 16384
+          }
         }
       }
     }
