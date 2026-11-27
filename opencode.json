@@ -35,6 +35,13 @@
             "context": 100000,
             "output": 16384
           }
+        },
+        "bonsai-2-5-27b-mtp": {
+          "name": "Ternary-Bonsai-2-5-27B MTP (local)",
+          "limit": {
+            "context": 100000,
+            "output": 16384
+          }
         }
       }
     }
